@@ -10,3 +10,4 @@ streamlit
 matplotlib
 requests
 huggingface_hub
+streamlit-option-menu
